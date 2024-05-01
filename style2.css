@@ -1,0 +1,22 @@
+.my-name{
+    font-size: 25px;
+    font-weight: 600;
+}
+.send{
+    font-size: 40px;
+}
+.social-links {
+    transition: transform 0.5s;
+}
+.social-links:hover {
+    transform: scale(1.5);
+}
+.button {
+    transition: transform 0.2s;
+}
+.button:hover {
+    transform: scale(1.2);
+}
+.img-width{
+    width: 25rem;
+}
